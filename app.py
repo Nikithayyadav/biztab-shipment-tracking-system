@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime, timedelta
 import random
-import pandas as pd
+import pandas as pd 
 
 def local_css(file_name):
     with open(file_name, "r") as f:
