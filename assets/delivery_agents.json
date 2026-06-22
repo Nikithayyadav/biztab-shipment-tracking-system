@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Rahul Kumar",
+        "vehicle": "TS-09-AB-1234"
+    },
+    {
+        "name": "Priya Sharma",
+        "vehicle": "TS-10-CD-5678"
+    },
+    {
+        "name": "Arjun Reddy",
+        "vehicle": "TS-08-EF-9012"
+    },
+    {
+        "name": "Ananya Rao",
+        "vehicle": "TS-11-GH-3456"
+    }
+]

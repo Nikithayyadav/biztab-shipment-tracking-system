@@ -1,0 +1,40 @@
+/* 1. Global Background: Deep Navy to Midnight Gradient */
+.stApp {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%) !important;
+    color: #F8FAFC !important;
+}
+
+/* 2. Premium Cards: Lighter glass to create contrast */
+.premium-card {
+    background: rgba(30, 41, 59, 0.7) !important;
+    backdrop-filter: blur(20px) !important;
+    border: 1px solid rgba(96, 165, 250, 0.3) !important;
+    border-radius: 20px !important;
+    padding: 30px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* 3. Text & Typography - Make everything brighter */
+h1, h2, h3, h4, p, div {
+    color: #F1F5F9 !important;
+}
+
+.stTextInput label, .stSelectbox label {
+    color: #94A3B8 !important; /* Muted label color */
+    font-weight: 600 !important;
+}
+
+/* 4. Input Fields - Brighter background for contrast */
+.stTextInput input, .stSelectbox div[data-baseweb="select"] {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid #3B82F6 !important;
+    color: white !important;
+}
+
+/* 5. Metrics - Add a slight glow */
+.stMetric {
+    background: rgba(15, 23, 42, 0.8) !important;
+    border: 1px solid rgba(59, 130, 246, 0.5) !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+}
