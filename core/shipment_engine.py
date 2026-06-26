@@ -6,7 +6,7 @@ SHIPMENT_STAGES = [
     "Dispatched",
     "In Transit",
     "Out For Delivery",
-    "Delivered"
+    "Delivered" 
 ]
 
 
