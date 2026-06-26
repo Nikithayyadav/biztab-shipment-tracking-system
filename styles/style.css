@@ -2,7 +2,7 @@
 .stApp {
     background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%) !important;
     color: #F8FAFC !important;
-}
+} 
 
 /* 2. Premium Cards: Lighter glass to create contrast */
 .premium-card {
