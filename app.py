@@ -10,7 +10,7 @@ def local_css(file_name):
 # Call this right after your st.set_page_config
 # Just add "styles/" to the path
 local_css("styles/style.css")
- 
+  
 # --------------------------------------------------
 # CONFIG & GLOBAL ENTERPRISE STYLING
 # --------------------------------------------------
