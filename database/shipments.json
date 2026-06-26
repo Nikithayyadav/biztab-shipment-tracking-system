@@ -2,7 +2,7 @@
     "shipment_id": "SHP1001",
     "customer": "Nikitha",
     "destination": "Hyderabad",
-    "agent": "Rahul Kumar",
+    "agent": "Rahul Kumar", 
     "status": "Packed",
     "history": [
         {
