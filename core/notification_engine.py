@@ -5,7 +5,7 @@ from datetime import datetime
 def load_notifications():
 
     with open(
-        "database/notifications.json",
+        "database/notifications.json", 
         "r"
     ) as f:
 
