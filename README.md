@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview           
   
-The **Biztab Shipment Tracking & Delivery Management System** is a logistics-focused web application developed to manage and monitor the shipment lifecycle from dispatch to successful delivery.
+The **Biztab Shipment Tracking & Delivery Management System** is a logistics-focused web application developed to manage and monitor the shipment lifecycle from dispatch to successful delivery. 
 
 This project simulates the **Shipment Tracking & Delivery Module (Steps 7–9)** of the Order-to-Delivery business workflow and provides real-time shipment status monitoring, courier assignment, customer notifications, and delivery completion management.
 
